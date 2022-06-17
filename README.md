@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Apt43. I am a retired software developer.
-- 👀 I’m interested in C#, Python, 3D Printing, Microcontroller.
+- 👀 I’m interested in C#, Python, 3D Printing, Raspberry Pi, ESP32.
 
 <!---
 Apt43/Apt43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
